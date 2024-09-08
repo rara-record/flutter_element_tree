@@ -7,3 +7,7 @@
 ## 기능 설명
 
 [Reset] 버튼을 누르면 증가, 감소 버튼이 서로 바뀌도록 만든다.
+
+## 정리
+
+[블로그 정리](https://medium.com/@a52447879/flutter%EC%9D%98-%EC%9C%84%EC%A0%AF-%EC%9A%94%EC%86%8C-%EC%83%81%ED%83%9C-%EA%B0%9D%EC%B2%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-64ed117a460e)
